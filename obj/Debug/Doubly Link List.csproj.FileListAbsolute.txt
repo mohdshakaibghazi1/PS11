@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\bin\Debug\Doubly Link List.exe.config
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\bin\Debug\Doubly Link List.exe
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\bin\Debug\Doubly Link List.pdb
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\obj\Debug\Doubly Link List.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\obj\Debug\Doubly Link List.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\obj\Debug\Doubly Link List.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\obj\Debug\Doubly Link List.exe
+C:\Users\moham\source\repos\Day10\DoublyLinkList\Doubly Link List\Doubly Link List\obj\Debug\Doubly Link List.pdb
